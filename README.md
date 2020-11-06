@@ -1,7 +1,5 @@
 # LeetCode </>
 
----
-
 LCE - LeetCode Easy
 
 LCM - LeetCode Medium
