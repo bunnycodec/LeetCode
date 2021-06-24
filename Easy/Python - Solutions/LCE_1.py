@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i in range(len(nums) - 1):
@@ -7,7 +10,8 @@ class Solution:
 
         return []
 
-
-mySolution = Solution()
-ans = mySolution.twoSum([2, 3, 4, 5], 8)
-print(ans)
+"""
+bunny = Solution()
+bunny.twoSum()
+print(bunny)
+"""
